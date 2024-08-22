@@ -1,0 +1,6 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="white"/>
+  <text x="50%" y="50%" font-family="Arial" font-size="120" fill="#2f855a" text-anchor="middle" alignment-baseline="central">
+    &lt;P/&gt;
+  </text>
+</svg>
